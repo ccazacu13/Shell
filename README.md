@@ -14,6 +14,6 @@ Shell written in C
   <li>cp - copy file</li>
   <li>makedir - create directory</li>
   <li>removedir - remove director </li>
-  <li>echo - print a string</li>\
+  <li>echo - print a string</li>
   <li>help - commands descriptions
 </ul>
