@@ -17,3 +17,7 @@ Shell written in C
   <li>echo - print a string</li>
   <li>help - commands descriptions
 </ul>
+<br />
+  <h5> Compile using: gcc shell.c -o shell -lreadline </br> 
+       Run using: ./shell
+  </h5>
